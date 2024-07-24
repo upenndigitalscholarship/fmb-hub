@@ -3,6 +3,7 @@ const { execSync } = require('child_process')
 
 module.exports = function (eleventyConfig) {
     eleventyConfig.addPassthroughCopy("assets");
+    eleventyConfig.addPassthroughCopy("admin");
 
 	eleventyConfig.addPlugin(EleventyI18nPlugin, {
 		// any valid BCP 47-compatible language tag is supported

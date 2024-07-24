@@ -1,13 +1,12 @@
-backend:
-  # Use netlify identity as backend
-  name: git-gateway
-  branch: main
-  
-media_folder: "/assets/media"
-public_folder: "/assets/media"
-
-# Please run "npx netlify-cms-proxy-server" for local backend
+# Run "npx decap-server" for local backend
 local_backend: true
+
+backend:
+  name: git-gateway
+  branch: main # Branch to update (optional; defaults to master)
+# This line should *not* be indented
+media_folder: "assets/media" # Media files will be stored in the repo under images/uploads  
+
 # publish_mode: editorial_workflow
 collections:
   - name: "archive" # Used in routes, e.g., /admin/collections/blog
@@ -23,5 +22,3 @@ collections:
       - { label: "Image", name: "thumbnail", widget: "image" }
       - { label: "Link", name: "link", widget: "string" }
       - { label: "Body", name: "body", widget: "markdown" }
-     
-
