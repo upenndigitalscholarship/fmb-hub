@@ -10,4 +10,18 @@ public_folder: "/assets/media"
 local_backend: true
 # publish_mode: editorial_workflow
 collections:
-  
+  - name: "archive" # Used in routes, e.g., /admin/collections/blog
+    label: "Archives" # Used in the UI
+    folder: "en/archives" # The path to the folder where the documents are stored
+    create: true # Allow users to create new documents in this collection
+    slug: "{{slug}}" # Filename template, e.g., YYYY-MM-DD-title.md
+    fields: # The fields for each document, usually in front matter
+      - { label: "Title", name: "title", widget: "string" }
+      - { label: "Author", name: "author", widget: "string" }
+      - { label: "Topic", name: "topic", widget: "string" }
+      - { label: "Date", name: "date", widget: "datetime" }
+      - { label: "Image", name: "thumbnail", widget: "image" }
+      - { label: "Link", name: "link", widget: "string" }
+      - { label: "Body", name: "body", widget: "markdown" }
+     
+
