@@ -9,12 +9,26 @@ media_folder: "assets/media" # Media files will be stored in the repo under imag
 
 editor:
   preview: false
-  
+
 # publish_mode: editorial_workflow
 collections:
   - name: "archive" # Used in routes, e.g., /admin/collections/blog
     label: "Archives" # Used in the UI
     folder: "en/archives" # The path to the folder where the documents are stored
+    create: true # Allow users to create new documents in this collection
+    slug: "{{slug}}" # Filename template, e.g., YYYY-MM-DD-title.md
+    fields: # The fields for each document, usually in front matter
+      - { label: "Title", name: "title", widget: "string"}
+      - { label: "Author", name: "author", widget: "string", required: false }
+      - { label: "Topic", name: "topic", widget: "string", required: false }
+      - { label: "Date", name: "date", widget: "datetime", required: false }
+      - { label: "Image", name: "thumbnail", widget: "image", required: false }
+      - { label: "Link", name: "link", widget: "string", required: false }
+      - { label: "Body", name: "body", widget: "markdown", required: false }
+
+  - name: "exhibit" # Used in routes, e.g., /admin/collections/blog
+    label: "Exhibits" # Used in the UI
+    folder: "en/exhibits" # The path to the folder where the documents are stored
     create: true # Allow users to create new documents in this collection
     slug: "{{slug}}" # Filename template, e.g., YYYY-MM-DD-title.md
     fields: # The fields for each document, usually in front matter
