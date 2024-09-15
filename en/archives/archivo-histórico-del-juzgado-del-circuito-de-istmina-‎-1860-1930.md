@@ -3,7 +3,7 @@ title: Archivo Histórico del Juzgado del Circuito de Istmina ‎ (1860-1930)
 author: Semillero de Jóvenes de Muntú Bantú
 topic: Colombia, Chocó, Istmina y el San Juan
 date: ""
-thumbnail: https://drive.google.com/file/d/1Cg1t70-eDwaZxO9OBd-YrgiUU216PnPk/view?usp=sharing
+thumbnail: https://eap.bl.uk/project/EAP1477
 link: https://eap.bl.uk/project/EAP1477
 ---
 En colaboración con la Fundación Muntú Bantú, la Biblioteca Británica, la iniciativa Despojos en las Americas de la Universidad de Pensylvania y la Fundación Mellon, y con apoyo adicional tanto de la Universidad de Michigan como de el SSHRC de Canadá y la Universidad de New Brunswick, buscamos asegurar que este acervo documental producido entre 1860 y 1930 —deteriorado pero aún legible a pesar de décadas de abandono— sea accesible para las futuras generaciones de chocoanos. 
