@@ -60,10 +60,10 @@
         <li><i id="search-icon" class="bi bi-search"></i></li>
 
           {% if page.lang == 'en' %}
-        <li>english | <a href="/es">español</a></li>
+        <li><a href="/en">english</a> | <a href="/es">español</a></li>
          
           {% else %}
-            <li>español | <a href="/en">english</a></li>
+            <li><a href="/es">español</a> | <a href="/en">english</a></li>
          {% endif %}
          
         </ul>
@@ -147,7 +147,7 @@
                 <div class="service-item" onclick="location.href='#exhibits';">
                   <div class="service-item-contents">
                     <a href="#exhibits">
-                      <h2 class="service-item-title">{% if page.lang == 'en' %}Browse Exhibits, Publications, and Projects{% else %}Explorar exposiciones, publicaciones + proyectos{% endif %}</h2>
+                      <h2 class="service-item-title">{% if page.lang == 'en' %}Browse Exhibits, Publications, and Projects{% else %}Explorar Exposiciones, Publicaciones + Proyectos{% endif %}</h2>
                     </a>
                   </div>
                   <img src="/assets/img/reading.png" alt="Image" class="img-fluid">
@@ -170,7 +170,7 @@
               <img  src="/assets/img/fmb-logo.jpg" alt="Image " class="img-fluid" data-aos="zoom-out">
             </div>
             <div class="col-lg-5 ml-auto" data-aos="fade-up" data-aos-delay="100">
-              <h3 class="content-subtitle text-white opacity-50">About</h3>
+              <h3 class="content-subtitle text-white opacity-50">{% if page.lang == 'en' %}About{% else %}Acerca</h3>
               <p>
               {% if page.lang == 'en' %}
                 Muntú Bantú is a Memory Center for Documentation and Afrodiasporic Materialities located in Quibdó, the capital city
@@ -221,7 +221,7 @@ Gettleson, and Andy Janco.
 
       <!-- Section Title -->
       <div class="container section-title" >
-        <h2>{% if page.lang == 'en' %}Archives{% else %}Archivo{% endif %}</h2>
+        <h2>{% if page.lang == 'en' %}Archives{% else %}Archivos + Fuentes Primarias{% endif %}</h2>
       </div><!-- End Section Title -->
 
       <div class="container">
@@ -273,7 +273,7 @@ Gettleson, and Andy Janco.
 
       <!-- Section Title -->
       <div class="container section-title" >
-        <h2>{% if page.lang == 'en' %}Exhibits{% else %}Exposiciones{% endif %}</h2>
+        <h2>{% if page.lang == 'en' %}Exhibits, Publications, and Projects{% else %}Exposiciones, Publicaciones + Proyectos{% endif %}</h2>
       </div><!-- End Section Title -->
 
       <div class="container">
