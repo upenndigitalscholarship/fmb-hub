@@ -50,7 +50,7 @@
 
       <a href="index.html" class="logo d-flex align-items-center">
         <!-- Uncomment the line below if you also wish to use an image logo -->
-        <img class="img-fluid" src="/assets/img/dog.svg" alt="Archivo Afro">
+        <!-- <img class="img-fluid" src="/assets/img/dog.svg" alt="Archivo Afro"> -->
         <h1 class="sitename">Archivo Afro</h1>
       </a>
 
@@ -58,11 +58,12 @@
         <ul>
             
         <li><i id="search-icon" class="bi bi-search"></i></li>
+
           {% if page.lang == 'en' %}
-        <li><a href="/es">english | español</a></li>
+        <li>english | <a href="/es">español</a></li>
          
           {% else %}
-            <li><a href="/en">español | english</a></li>
+            <li>español | <a href="/en">english</a></li>
          {% endif %}
          
         </ul>
