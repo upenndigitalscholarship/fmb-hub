@@ -7,8 +7,7 @@
     "test": "echo \"Error: no test specified\" && exit 1",
     "watch:eleventy": "eleventy --serve",
     "build:eleventy": "eleventy",
-    "start": "npm-run-all build:sass --parallel watch:*",
-    "build": "npm-run-all build:*",
+    "build": "npm build",
     "debug": "DEBUG=Eleventy:* eleventy"
   },
   "keywords": [],
