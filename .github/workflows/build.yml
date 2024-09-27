@@ -1,17 +1,40 @@
-name: Eleventy Build & Deploy
-on: [push]
+name: Build and Deploy
+
+on:
+  push:
+    branches: ['main']
 
 jobs:
-  build_deploy:
+  build:
     runs-on: ubuntu-latest
+
+    strategy:
+      matrix:
+        node-version: ['20']
+
+    permissions:
+      contents: write
+
     steps:
-      - uses: actions/checkout@v3
-      - name: Build
-        uses: TartanLlama/actions-eleventy@master
-      - name: Deploy
-        uses: peaceiris/actions-gh-pages@v3
+      - uses: actions/checkout@v4
+
+      - name: Use Node.js ${{ matrix.node-version }}
+        uses: actions/setup-node@v4
         with:
-          github_token: ${{ secrets.GITHUB_TOKEN }}
+          node-version: ${{ matrix.node-version }}
+          cache: 'npm'
+
+      - name: Install packages
+        run: npm install
+
+      - name: Run build
+        run: npx eleventy
+
+      - name: Deploy to gh-pages
+        uses: peaceiris/actions-gh-pages@v4
+        with:
+          deploy_key: ${{ secrets.ACTIONS_DEPLOY_KEY }}
           publish_dir: _site 
           publish_branch: gh-pages
           cname: www.archivoafro.org
+          
