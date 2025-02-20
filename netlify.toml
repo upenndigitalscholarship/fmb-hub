@@ -9,8 +9,8 @@
   conditions = {Language = ["es"]}
 
 # Default
-# [[redirects]]
-#  from = "/*"
-#  to = "/en/:splat"
-#  status = 302
+ [[redirects]]
+  from = "/*"
+  to = "/en/:splat"
+  status = 302
 
