@@ -45,41 +45,13 @@
 
 <body class="index-page">
 
-  <header id="header" class="header d-flex align-items-center position-relative">
-    <div class="container-fluid container-xl position-relative d-flex align-items-center justify-content-between">
+<header>
+ {% include "navbar.njk" %}
+</header>
 
-      <a href="index.html" class="logo d-flex align-items-center">
-        <!-- Uncomment the line below if you also wish to use an image logo -->
-        <!-- <img class="img-fluid" src="/assets/img/dog.svg" alt="Archivo Afro"> -->
-        <h1 class="sitename">Archivo Afro</h1>
-      </a>
-
-      <nav id="navmenu" class="navmenu">
-        <ul>
-            
-        <li><i id="search-icon" class="bi bi-search"></i></li>
-
-          {% if page.lang == 'en' %}
-        <a href="/en">english</a> | <a href="/es">español</a>
-         
-          {% else %}
-        <a href="/es">español</a> | <a href="/en">english</a>
-         {% endif %}
-         
-        </ul>
-        <i class="mobile-nav-toggle d-xl-none bi bi-list"></i>
-
-      </nav>
-
-    </div>
-
-  </header>
   <main class="main">
-
     
-    
-    
-    <!-- Services 2 Section -->
+    <!-- Photo banner (desktop)/carousel (mobile) -->
     <section id="services-2" class="services-2 section dark-background">
       <!-- Section Title -->
       
@@ -167,9 +139,9 @@
         <div id="about" class="container">
           <div class="row">
             <div class="col-lg-6 mb-4 mb-lg-0">
-              <img  src="/assets/img/fmb-logo.jpg" alt="Image " class="img-fluid" data-aos="zoom-out">
+              <img src="/assets/img/fmb-logo.jpg" alt="Image" class="img-fluid">
             </div>
-            <div class="col-lg-5 ml-auto" data-aos="fade-up" data-aos-delay="100">
+            <div class="col-lg-5 ml-auto">
               <h3 class="content-subtitle text-white opacity-50">{% if page.lang == 'en' %}About{% else %}Acerca{% endif %}</h3>
               <p>
               {% if page.lang == 'en' %}
@@ -197,7 +169,7 @@ recibido del Social Sciences and Humanities Research Council of Canada, Penn Lib
 Pennsylvania, la Universidad de New Brunswick y la Universidad de Michigan.
 Gracias a todes: Las y los del Semillero de Jóvenes de Muntú Bantú, María Fernanda Parra, Sergio Mosquera Mosquera,
 Daniel Varela Corredor, Claudia Leal, Kelly López-Roldán, Ann Farnsworth-Alvear, Daniel Tubb, Cynthia Heider, Brie
-Gettleson, and Andy Janco.
+Gettleson, y Andy Janco.
          {% endif %}
               </p>
 
@@ -235,8 +207,16 @@ Gettleson, and Andy Janco.
               </div>
 
               <div class="post-content d-flex flex-column">
-
+              <!-- use English language title if available when site is in English mode -->
+                {% if page.lang == 'en' %}
+                  {% if archive.data.titleEng %}
+                  <h3 class="post-title">{{ archive.data.titleEng }}</h3>
+                  {% else %}
+                  <h3 class="post-title">{{ archive.data.title }}</h3>
+                  {% endif %}
+                {% else %}
                 <h3 class="post-title">{{ archive.data.title }}</h3>
+                {% endif %}
 
                 <div class="meta d-flex align-items-center">
                   <div class="d-flex align-items-center">
@@ -250,7 +230,9 @@ Gettleson, and Andy Janco.
 
                 <hr>
 
-                <a href="{{ archive.data.link }}" class="readmore stretched-link"><span>Read More</span><i class="bi bi-arrow-right"></i></a>
+                <a href="{{ archive.data.link }}" class="readmore stretched-link">
+                  <span>{% if page.lang == 'en' %}Read more{% else %}Lee más{% endif %}</span><i class="bi bi-arrow-right"></i>
+                </a>
 
               </div>
 
@@ -286,8 +268,17 @@ Gettleson, and Andy Janco.
               </div>
 
               <div class="post-content d-flex flex-column">
-
+                            
+              <!-- use English language title if available when site is in English mode -->
+                              {% if page.lang == 'en' %}
+                  {% if archive.data.titleEng %}
+                  <h3 class="post-title">{{ exhibit.data.titleEng }}</h3>
+                  {% else %}
+                  <h3 class="post-title">{{ exhibit.data.title }}</h3>
+                  {% endif %}
+                {% else %}
                 <h3 class="post-title">{{ exhibit.data.title }}</h3>
+                {% endif %}
 
                 <div class="meta d-flex align-items-center">
                   <div class="d-flex align-items-center">
@@ -301,7 +292,9 @@ Gettleson, and Andy Janco.
 
                 <hr>
 
-                <a href="{{ exhibit.data.link }}" class="readmore stretched-link"><span>Read More</span><i class="bi bi-arrow-right"></i></a>
+                <a href="{{ exhibit.data.link }}" class="readmore stretched-link">
+                  <span>{% if page.lang == 'en' %}Read more{% else %}Lee más{% endif %}</span><i class="bi bi-arrow-right"></i>
+                </a>
 
               </div>
 
