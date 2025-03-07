@@ -3,6 +3,10 @@
 <html>
 <head>
 <title>Redirect Page</title>
+ <!-- Include the script that builds the page and powers Decap CMS -->
+    <script src="https://unpkg.com/decap-cms@^3.0.0/dist/decap-cms.js"></script>
+     <!-- Netlify Identity Widget -->
+        <script type="text/javascript" src="https://identity.netlify.com/v1/netlify-identity-widget.js"></script>
 <script type="text/javascript">
     let lang = window.navigator.languages ? window.navigator.languages[0] : null;
     lang = lang || window.navigator.language || window.navigator.browserLanguage 
@@ -24,10 +28,7 @@
         window.location.href = 'es/';
     }
     </script>
-    <!-- Include the script that builds the page and powers Decap CMS -->
-    <script src="https://unpkg.com/decap-cms@^3.0.0/dist/decap-cms.js"></script>
-     <!-- Netlify Identity Widget -->
-        <script type="text/javascript" src="https://identity.netlify.com/v1/netlify-identity-widget.js"></script>
+   
 </head>
 <body>
 </body>
