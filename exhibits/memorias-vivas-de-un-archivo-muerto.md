@@ -8,7 +8,7 @@ topic: " Colombia, Chocó, Istmina y el San Juan (Archivo Histórico del Juzgado
   del Circuito de Istmina, 1860-1930)"
 date: ""
 thumbnail: /assets/media/memorias_vivas.png
-link: https://upenn.box.com/s/wxtz7ob3d5iea811i3cr7ymaq3yzarfq
+link: https://upenn.box.com/v/memoriasvivas
 desc-es: This publication was made possible by a grant from the [Hershey
   Humanities Against Discrimination
   Fund](https://wolfhumanities.upenn.edu/humanities-against-discrimination) of
