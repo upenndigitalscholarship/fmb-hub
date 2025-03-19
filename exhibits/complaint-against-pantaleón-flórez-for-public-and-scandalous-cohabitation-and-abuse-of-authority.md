@@ -1,10 +1,11 @@
 ---
 title: Complaint against Pantaleón Flórez for Public and Scandalous Cohabitation
-  and Abuse of Authority (Supported by Hobart and William Smith Colleges and by
-  the Social Sciences and Humanities Research Council of Canada)
-titleEng: Complaint against Pantaleón Flórez for Public and Scandalous
-  Cohabitation and Abuse of Authority (Supported by Hobart and William Smith
+  and Abuse of Authority (Translation supported by Hobart and William Smith
   Colleges and by the Social Sciences and Humanities Research Council of Canada)
+titleEng: Complaint against Pantaleón Flórez for Public and Scandalous
+  Cohabitation and Abuse of Authority (Translation supported by Hobart and
+  William Smith Colleges and by the Social Sciences and Humanities Research
+  Council of Canada)
 author: Ernestina Lemos Rentería, trans. Isabelle Girolamo
 topic: Colombia, Chocó, Istmina, el San Juan (Archivo Histórico del Juzgado del
   Circuito de Istmina, 1860-1930)
