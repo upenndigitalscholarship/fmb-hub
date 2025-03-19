@@ -1,13 +1,17 @@
 ---
-title: Memorias vivas de un archivo muerto
-titleEng: Living Memories from a Dead Archive
+title: Memorias vivas de un archivo muerto (Publication supported by the Hershey
+  Fund of the Wolf Humanities Center at the University of Pennsylvania, as well
+  as by funding from University of Michigan and SSHRC.)
+titleEng: Living Memories from a Dead Archive (Publication supported by the
+  Hershey Fund of the Wolf Humanities Center at the University of Pennsylvania,
+  as well as by funding from University of Michigan and SSHRC.)
 author: "Semillero Recuperación de Archivos en Peligro Muntú Bantú: Nallely
   Taborda Castañeda, Ernestina Lemos Rentería, Javier Hurtado Ibargüen, Jhon
   Leison Rivas Rodríguez, Yusleyda Perea Cuesta"
 topic: " Colombia, Chocó, Istmina y el San Juan (Archivo Histórico del Juzgado
   del Circuito de Istmina, 1860-1930)"
 date: ""
-thumbnail: /assets/media/cover-image.jpg
+thumbnail: /assets/media/memorias_vivas.png
 link: https://upenn.box.com/v/memoriasvivas
 desc-es: This publication was made possible by a grant from the [Hershey
   Humanities Against Discrimination
