@@ -1,9 +1,9 @@
 ---
-title: Libres
+title: Godoy, Matías, ¡Libres! (2025) 12 capítulos
 author: Godoy, Matías
 date: ""
 thumbnail: /assets/media/image-4-.png
-link: https://upenn.box.com/v/CapitulosGodoy
+link: https://upenn.box.com/v/CapitulosGodoy01
 desc-es: >-
   
   ***¡Libres!*** es una historia del litoral Pacífico colombiano y de la gente negra que lo habita desde que fue
