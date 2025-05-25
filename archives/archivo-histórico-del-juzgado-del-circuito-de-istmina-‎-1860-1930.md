@@ -1,7 +1,9 @@
 ---
 title: Archivo Histórico del Juzgado del Circuito de Istmina ‎ (1860-1930)
 titleEng: Historical Archive of the Istmina Circuit Court (1860-1930)
-author: Archivo Histórico del Juzgado del Circuito de Istmina
+author: Archivo Histórico del Juzgado del Circuito de Istmina, digitalización
+  por el EAP1477 de la Biblioteca Británica y el Semillero de Jóvenes del Centro
+  de Memoria Muntú Bantú
 topic: Colombia, Chocó, Istmina y el San Juan
 date: ""
 thumbnail: /assets/media/screenshot-2024-09-14-at-10.39.07 pm.png
