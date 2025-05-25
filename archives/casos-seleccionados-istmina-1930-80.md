@@ -1,16 +1,7 @@
 ---
 title: Casos Seleccionados, Istmina 1930-80
 titleEng: Selected Cases, Istmina 1930-1980
-author: Agradecemos a la Universidad de Michigan, la Universidad de New
-  Brunswick, y la Universidad de Pennsylvania por el apoyo que hizo posible la
-  digitalización y nuestro trabajo con los imágenes después (2021-2024), y al
-  Semillero de Jóvenes del Centro de Memoria Muntú Bantú por su apoyo con la
-  organización y la interpretación de los casos (2022-2023). Una beca del Centro
-  Lepage de la Universidad de Villanova nos apoyó para explorar también la
-  relevancia que estos casos puedan tener en el presente (2024-2025). Un
-  agradecimiento especial para Ernestina Lemos Rentería, Kelly López Roldán, y
-  Andy Janco por las horas expertas invertidas (2025), con un apoyo de la
-  Asociación para computadores y humanidades (ACH).
+author: Archivo Histórico del Juzgado del Circuito de Istmina
 topic: Colombia, Chocó, Istmina y el San Juan, Minería, Compañías extranjeras
 date: ""
 thumbnail: /assets/media/screenshot-2025-05-25-at-8.50.12 am.png
