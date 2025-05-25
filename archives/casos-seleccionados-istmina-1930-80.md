@@ -1,7 +1,9 @@
 ---
 title: Casos Seleccionados, Istmina 1930-80
 titleEng: Selected Cases, Istmina 1930-1980
-author: Archivo Histórico del Juzgado del Circuito de Istmina
+author: Archivo Histórico del Juzgado del Circuito de Istmina, digitalización
+  por Daniel Varela y Angelica Aqualimpia y con procesamiento digital de las
+  imágenes por Daniel Tubb, Kelly López, y Ernestina Lemos Rentería
 topic: Colombia, Chocó, Istmina y el San Juan, Minería, Compañías extranjeras
 date: ""
 thumbnail: /assets/media/screenshot-2025-05-25-at-8.50.12 am.png
