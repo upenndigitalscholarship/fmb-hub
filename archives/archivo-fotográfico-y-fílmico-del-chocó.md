@@ -1,6 +1,7 @@
 ---
-title: "Fondo Chocó - Audiovisuales - Archivo Fotográfico y Fílmico del Chocó -
-  Videoteca "
+title: "Archivo Fotográfico y Fílmico del Chocó - Videoteca "
+titleEng: "Fondo Chocó - Audiovisuales - Archivo Fotográfico y Fílmico del Chocó
+  - Videoteca "
 author: "Universidad Tecnológica del Chocó. Archivo Fotográfico y Fílmico del
   Chocó - Videoteca. Director: Gonzalo Díaz Cañadas"
 topic: Colombia. Chocó, Quibdó, Istmina, Andagoya, Río Atrato, Río San Juan,
