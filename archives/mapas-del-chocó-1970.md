@@ -1,5 +1,5 @@
 ---
-title: Mapas del Chocó, 1970?
+title: Fondo Chocó - Mapas - Mapas del Chocó, 1970?
 author: Gobierno de Colombia. DANE
 topic: Colombia, Chocó, Istmina y el San Juan, Mapas
 date: ""
