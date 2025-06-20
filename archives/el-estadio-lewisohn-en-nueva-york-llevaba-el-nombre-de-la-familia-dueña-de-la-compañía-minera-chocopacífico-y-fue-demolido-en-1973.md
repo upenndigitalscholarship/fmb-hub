@@ -1,7 +1,7 @@
 ---
-title: "Fondo Chocó - Fotografías - El estadio Lewisohn en Nueva York: llevaba
-  el nombre de la familia dueña de la Compañía Minera Chocopacífico y fue
-  demolido en 1973"
+title: "El estadio Lewisohn en Nueva York: llevaba el nombre de la familia dueña
+  de la Compañía Minera Chocopacífico y fue demolido en 1973"
+titleEng: Fondo Chocó - Fotografías - Lewisohn Stadium
 author: Vachon, John (1914-1975)
 topic: Minería, Compañías Extranjeras
 date: ""
