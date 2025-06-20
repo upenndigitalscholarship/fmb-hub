@@ -1,6 +1,6 @@
 ---
-title: "Archivo Histórico Judicial de Istmina 1930-80, Casos procesados en
-  formato Word. Fondo Minería 1930-1980. "
+title: "Fondo Chocó - Archivos - Archivo Histórico Judicial de Istmina 1930-80,
+  Casos procesados en formato Word. Fondo Minería 1930-1980. "
 titleEng: Selected Cases, Istmina 1930-1980
 author: Archivo Histórico del Juzgado del Circuito de Istmina. Digitalización
   por Daniel Varela y Angelica Aqualimpia. Procesamiento digital de las imágenes
