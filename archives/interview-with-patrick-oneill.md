@@ -1,5 +1,6 @@
 ---
-title: Interview with Patrick O'Neill (New Canaan, CT--2007)
+title: Fondo Chocó - Entrevistas - Interview with Patrick O'Neill (New Canaan,
+  CT--2007)
 author: Patrick O'Neill, as interviewed by Ann Farnsworth-Alvear
 topic: Colombia, Chocó, San Juan, Minería, Compañías Extranjeras
 date: ""
