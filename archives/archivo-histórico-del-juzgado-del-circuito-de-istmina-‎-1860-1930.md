@@ -1,5 +1,6 @@
 ---
-title: Archivo Histórico del Juzgado del Circuito de Istmina ‎ (1860-1930)
+title: Fondo Chocó - Archivos - Archivo Histórico del Juzgado del Circuito de
+  Istmina ‎ (1860-1930)
 titleEng: Historical Archive of the Istmina Circuit Court (1860-1930)
 author: Archivo Histórico del Juzgado del Circuito de Istmina, digitalización
   por el EAP1477 de la Biblioteca Británica y el Semillero de Jóvenes del Centro
