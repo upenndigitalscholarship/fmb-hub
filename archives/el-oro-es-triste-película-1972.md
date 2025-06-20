@@ -4,6 +4,7 @@ author: Luis Alfredo Sánchez
 topic: Colombia, Barbacoas, Colonialismo
 date: ""
 thumbnail: /assets/media/untitled-2.png
+link: https://upenn.box.com/s/gxreqtnta3vs4nzqjz5ilggvozz3a7lu
 desc-es: >-
   Datos tomados de la página del Centro Virtual Isaacs\
 
