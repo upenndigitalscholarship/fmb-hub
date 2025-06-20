@@ -6,5 +6,5 @@ author: Archivo Histórico del Juzgado del Circuito de Istmina. Digitalización
 topic: Colombia, Chocó, Río San Juan, Minería, Vida Cotidiana, Compañías extranjeras
 date: ""
 thumbnail: /assets/media/collage.png
-link: https://upenn.box.com/v/casos19301980
+link: https://upenn.box.com/s/2945rurlfslfsh20huf5r0ckgor7rydd
 ---
