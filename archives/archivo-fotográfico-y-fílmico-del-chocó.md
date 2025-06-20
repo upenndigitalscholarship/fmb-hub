@@ -1,7 +1,9 @@
 ---
 title: "Archivo Fotográfico y Fílmico del Chocó - Videoteca "
-author: Universidad Tecnológica del Chocó
-topic: Colombia. Chocó, Minería, Vida cotidiana, Historia regional
+author: "Universidad Tecnológica del Chocó. Archivo Fotográfico y Fílmico del
+  Chocó - Videoteca. Director: Gonzalo Díaz Cañadas"
+topic: Colombia. Chocó, Quibdó, Istmina, Andagoya, Río Atrato, Río San Juan,
+  Minería, Vida cotidiana, Historia regional
 date: ""
 thumbnail: /assets/media/screenshot-2025-06-20-at-8.57.04 am.png
 link: https://videotecachoco.utch.edu.co/peliculas
