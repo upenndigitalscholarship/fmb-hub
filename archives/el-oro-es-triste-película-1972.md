@@ -1,5 +1,5 @@
 ---
-title: El oro es triste - Película - 1972
+title: Fondo Chocó - Audiovisuales - El oro es triste - Película - 1972
 author: Luis Alfredo Sánchez
 topic: Colombia, Barbacoas, Colonialismo
 date: ""
