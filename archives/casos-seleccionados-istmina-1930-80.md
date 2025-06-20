@@ -1,10 +1,11 @@
 ---
-title: Casos Seleccionados, Archivo Jusicial de Istmina 1930-80
+title: "Archivo Judicial de Istmina 1930-80, Casos procesados en formato Word.
+  Fondo Minería 1930-1980. "
 titleEng: Selected Cases, Istmina 1930-1980
 author: Archivo Histórico del Juzgado del Circuito de Istmina. Digitalización
   por Daniel Varela y Angelica Aqualimpia. Procesamiento digital de las imágenes
   por Daniel Tubb, Kelly López Roldán, y Ernestina Lemos Rentería
-topic: Colombia, Chocó, Río San Juan, Minería, Compañías extranjeras
+topic: Colombia, Chocó, Río San Juan, Minería, Vida Cotidiana, Compañías extranjeras
 date: ""
 thumbnail: /assets/media/collage.png
 link: https://upenn.box.com/v/casos19301980
