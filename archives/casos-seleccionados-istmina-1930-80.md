@@ -8,7 +8,7 @@ author: Archivo Histórico del Juzgado del Circuito de Istmina. Digitalización
   por Daniel Tubb, Kelly López Roldán, y Ernestina Lemos Rentería
 topic: Colombia, Chocó, Río San Juan, Minería, Vida Cotidiana, Compañías extranjeras
 date: ""
-thumbnail: /assets/media/collage.png
+thumbnail: /assets/media/screenshot-2025-06-24-at-10.06.01 pm.png
 link: https://upenn.box.com/v/casos19301980
 desc-es: >-
   Casos seleccionados por Daniel Varela y Angelica Aqualimpia, y procesados
