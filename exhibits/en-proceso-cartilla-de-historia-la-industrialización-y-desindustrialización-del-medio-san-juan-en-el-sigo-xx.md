@@ -8,4 +8,5 @@ author: Taller Andagoya 2025, realizado con el apoyo de la Universidad de
 topic: Colombia, Chocó, Río San Juan, Minería, Vida Cotidiana, Compañías extranjeras
 date: ""
 thumbnail: /assets/media/screenshot-2025-06-25-at-12.48.55 pm.png
+link: https://upenn.box.com/s/pignq8u7pwuquiplr0xcgaek16o5uyno
 ---
