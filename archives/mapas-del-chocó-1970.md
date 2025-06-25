@@ -1,5 +1,5 @@
 ---
-title: Mapas del Chocó, 1970s
+title: Sutido de mapas del Chocó, autores diferente
 titleEng: Fondo Chocó - Map - 1970s
 author: Gobierno de Colombia. DANE
 topic: Colombia, Chocó, Istmina y el San Juan, Mapas
