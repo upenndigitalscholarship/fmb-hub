@@ -1,5 +1,6 @@
 ---
-title: Archivo Histórico del Juzgado del Circuito de Istmina ‎ (1860-1930)
+title: Casos digitalizados por EAP1477, del Archivo Histórico del Juzgado del
+  Circuito de Istmina ‎ (1860-1930)
 titleEng: Fondo Chocó - Archivos - Archivo Histórico del Juzgado del Circuito de
   Istmina ‎ (1860-1930)
 author: Archivo Histórico del Juzgado del Circuito de Istmina, digitalización
