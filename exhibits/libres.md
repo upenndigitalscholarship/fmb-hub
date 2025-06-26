@@ -1,6 +1,9 @@
 ---
 title: Godoy, Matías, ¡Libres! (2025) 12 capítulos
-author: Godoy, Matías
+author: Matías Godoy (Texto), Grupo etnohistoria del Chocó y Claudia Leal
+  (Gestión), con apoyo del proyecto "Despojos en las Américas" - Universidad de
+  Pennsylvania y la Fundación Mellon - https://dia.upenn.edu/es/about/
+topic: Colombia, Pacífico, Chocó
 date: ""
 thumbnail: /assets/media/image-4-.png
 link: https://upenn.box.com/v/CapitulosGodoy01
