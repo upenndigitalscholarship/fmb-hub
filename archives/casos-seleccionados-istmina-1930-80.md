@@ -5,11 +5,11 @@ titleEng: "Fondo Chocó - Archivos - Archivo Histórico Judicial de Istmina
   1930-80, Casos procesados en formato Word. Fondo Minería 1930-1980. "
 author: Archivo Histórico del Juzgado del Circuito de Istmina. Digitalización
   por Daniel Varela y Angelica Aqualimpia. Procesamiento digital de las imágenes
-  por Daniel Tubb, Kelly López Roldán, y Ernestina Lemos Rentería
+  hecho por Daniel Tubb, Kelly López Roldán, y Ernestina Lemos Rentería
 topic: Colombia, Chocó, Río San Juan, Minería, Vida Cotidiana, Compañías extranjeras
 date: ""
 thumbnail: /assets/media/screenshot-2025-06-24-at-10.06.01 pm.png
-link: https://upenn.box.com/v/casos19301980
+link: https://upenn.box.com/s/ezpp32x9p0yps244buzweyqfyn67h5lq
 desc-es: >-
   Casos seleccionados por Daniel Varela y Angelica Aqualimpia, y procesados
   usando inteligencia artificial por Daniel Tubb, Kelly López Roldán, y
