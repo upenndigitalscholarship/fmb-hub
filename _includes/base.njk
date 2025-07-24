@@ -181,6 +181,12 @@ Gettleson, y Andy Janco.
               </div>
 
               <div class="post-content d-flex flex-column">
+              <!-- insert the Type if available -->  
+             {% if archive.data.type %}
+              <div class="pb-3">
+                <span class="badge text-white bg-primary">{{ archive.data.type }}</span>
+              </div>
+              {% endif %}
               <!-- use English language title if available when site is in English mode -->
                 {% if page.lang == 'en' %}
                   {% if archive.data.titleEng %}
