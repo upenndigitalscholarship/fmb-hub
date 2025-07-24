@@ -7,4 +7,8 @@ topic: Nueva York, Familia Lewinsohn, Compañías extranjeras
 date: ""
 thumbnail: /assets/media/screenshot-2024-09-16-at-8.33.25 am.png
 link: https://www.loc.gov/resource/fsa.8d06917/
+tags:
+    - archives
+layout: archive.njk
+type: fotos
 ---

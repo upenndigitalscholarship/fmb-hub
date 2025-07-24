@@ -11,5 +11,6 @@ link: https://www.icanh.gov.co/destacados/home-destacados/herramientas-para-inve
 tags:
     - archives
 layout: archive.njk
+type: documentos
 ---
 Afrodescendientes, minería y cambio social en la cuenca del río San Juan, Chocó, 1906 - 1997

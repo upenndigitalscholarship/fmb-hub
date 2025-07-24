@@ -9,4 +9,8 @@ topic: Colombia, Chocó, Río San Juan, Istmina, Minería, Videa cotidiana,
 date: ""
 thumbnail: /assets/media/screen-shot-2025-06-26-at-10.20.22-am.png
 link: https://docs.google.com/spreadsheets/d/1_kroz_B5HC76PM0rGKzv4sUQLTxu-nFlTJbS1x_w9dE/edit?gid=1226811537#gid=1226811537
+tags:
+    - archives
+layout: archive.njk
+type: documentos
 ---

@@ -7,4 +7,8 @@ topic: Colombia, Chocó, Minería, Hidroeléctrica de La Vuelta, Vida Cotidiana,
 date: ""
 thumbnail: /assets/media/screenshot-2025-06-25-at-2.36.57 pm.png
 link: https://upenn.box.com/s/egwdjtpmbttl0lej0fpid25njkwp8r7m
+tags:
+    - archives
+layout: archive.njk
+type: entrevistas
 ---

@@ -1,8 +1,8 @@
 ---
 title: Casos digitalizados por EAP1477, del Archivo Histórico del Juzgado del
-  Circuito de Istmina ‎ (1860-1930)
+  Circuito de Istmina (1860-1930)
 titleEng: Fondo Chocó - Archivos - Archivo Histórico del Juzgado del Circuito de
-  Istmina ‎ (1860-1930)
+  Istmina (1860-1930)
 author: Archivo Histórico del Juzgado del Circuito de Istmina, digitalización
   por el EAP1477 de la Biblioteca Británica y el Semillero de Jóvenes del Centro
   de Memoria Muntú Bantú
@@ -13,8 +13,9 @@ link: https://eap.bl.uk/project/EAP1477
 tags:
     - archives
 layout: archive.njk
+type: documentos
 ---
-En colaboración con la Fundación Muntú Bantú, la Biblioteca Británica, la iniciativa Despojos en las Americas de la Universidad de Pensylvania y la Fundación Mellon, y con apoyo adicional tanto de la Universidad de Michigan como de el SSHRC de Canadá y la Universidad de New Brunswick, buscamos asegurar que este acervo documental producido entre 1860 y 1930 —deteriorado pero aún legible a pesar de décadas de abandono— sea accesible para las futuras generaciones de chocoanos. 
+En colaboración con la Fundación Muntú Bantú, la Biblioteca Británica, la iniciativa Despojos en las Americas de la Universidad de Pensylvania y la Fundación Mellon, y con apoyo adicional tanto de la Universidad de Michigan como de el SSHRC de Canadá y la Universidad de New Brunswick, buscamos asegurar que este acervo documental producido entre 1860 y 1930 —deteriorado pero aún legible a pesar de décadas de abandono— sea accesible para las futuras generaciones de chocoanos.
 
 E proyecto se realizó con un grupo de jóvenes investigadores chocoanos durante un proceso de seis meses en la catalogación de los expedientes digitalizados. Estos documentos permanecieron en sacos durante años hasta que nuestro equipo los organizó en cajas desacidificadas. En el proceso entendimos que nuestro trabajo incluía no sólo fotografiar y catalogar los archivos, sino también buscar una comunicación intergeneracional en el proceso de lectura y contextualización. Esta labor fue posible gracias a la participación de Sergio Mosquera y María Fernanda Parra de la Fundación Muntú Bantú.
 
