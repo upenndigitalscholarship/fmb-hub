@@ -22,12 +22,12 @@ collections:
       - { label: "Title (English)", name: "titleEng", widget: "string", required: false }
       - { label: "Author", name: "author", widget: "string", required: false }
       - { label: "Topic", name: "topic", widget: "string", required: false }
+      - { label: "Type", name: "type", widget: "select", options: ["audiovisuales", "bibliografía", "documentos", "entrevistas", "fotos", "mapas", "otros"], required: false }
       - { label: "Date", name: "date", widget: "datetime", required: false }
       - { label: "Image", name: "thumbnail", widget: "image", required: false }
       - { label: "Link", name: "link", widget: "string", required: false }
       - { label: "Description (Spanish)", name: "desc-es", widget: "markdown", required: false }
       - { label: "Description (English)", name: "desc-en", widget: "markdown", required: false }
-      - { label: "Type", name: "type", widget: "select", options: ["audiovisuales", "bibliografía", "documentos", "entrevistas", "fotos", "mapas", "otros"], required: false }
 
   - name: "exhibit" # Used in routes, e.g., /admin/collections/blog
     label: "Exhibits" # Used in the UI
