@@ -166,12 +166,39 @@ Gettleson, y Andy Janco.
         <h2>{% if page.lang == 'en' %}Archives + Primary Sources{% else %}Archivos + Fuentes Primarias{% endif %}</h2>
       </div><!-- End Section Title -->
 
-      <div class="container">
+      <div class="container pb-1">
+       <div class="container">
 
-        <div class="row gy-5">
+
+      <div class="row">
+
+
+        <div class="buttons col-12">
+
+
+          <button class="btn mb-2 me-1 filter-button" data-filter="filter-all">Todos</button>
+
+          <button class="btn mb-2 mx-1 filter-button" data-filter="audiovisuales">Audiovisuales</button>
+
+          <button class="btn mb-2 mx-1 filter-button" data-filter="bibliografía">Bibliografía</button>
+          
+          <button class="btn mb-2 mx-1 filter-button" data-filter="documentos">Documentos</button>
+
+          <button class="btn mb-2 mx-1 filter-button" data-filter="entrevistas">Entrevistas</button>
+
+          <button class="btn mb-2 mx-1 filter-button" data-filter="fotos">Fotos</button>
+
+          <button class="btn mb-2 mx-1 filter-button" data-filter="mapas">Mapas</button>
+
+          <button class="btn mb-2 mx-1 filter-button" data-filter="otros">Otros</button>
+
+        </div>
+
+        <div class="row gy-5 mt-0">
           {%- for archive in collections.archives -%}
-          <div class="col-xl-4 col-md-6">
-            <div class="post-item position-relative h-100"  data-aos-delay="100">
+          <div class="archive-item col-xl-4 col-md-6" data-category="{{ archive.data.type }}">
+
+            <div class="post-item position-relative h-100" data-aos-delay="100">
 
               <div class="post-img position-relative overflow-hidden">
                 <img src="{{ archive.data.thumbnail }}" class="img-fluid" alt="{{ archive.data.title }}">
@@ -334,6 +361,8 @@ Gettleson, y Andy Janco.
 
     });
   </script>
+  <script src="https://code.jquery.com/jquery-1.11.1.min.js"></script>
+  <script src="/assets/js/filter-type.js"></script>
   {% block extrajs %}{% endblock %}
 
 </body>
