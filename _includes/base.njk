@@ -195,8 +195,7 @@ Gettleson, y Andy Janco.
         </div>
 
         <div class="row gy-5 mt-0">
-        {% if page.lang == 'en' %}{%- for archive in collections.archives | sort(attribute="data.titleEng") -%}
-        {% else %}{%- for archive in collections.archives | sort(attribute="data.title") -%}
+        {%- for archive in collections.archives | sort(attribute="data.title") -%}
           <div class="archive-item col-xl-4 col-md-6" data-category="{{ archive.data.type }}">
 
             <div class="post-item position-relative h-100" data-aos-delay="100">
