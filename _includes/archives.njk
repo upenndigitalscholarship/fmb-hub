@@ -1,0 +1,18 @@
+---
+layout: vanilla.njk
+---
+
+{# This is the template for the Archives page–it lists the archives in the collection #}
+
+Is anything here????
+
+<div class="wrapper home">
+  <div class="content">
+    {{ content | safe }}
+    <ul>
+      {%- for archive in collections.archives -%}
+        <li{% if page.url == archive.url %} aria-current="page"{% endif %}><a href='{{ archive.url }}'>{{ archive.data.title }}</a></li>
+      {%- endfor -%}
+    </ul>
+  </div>
+</div>
