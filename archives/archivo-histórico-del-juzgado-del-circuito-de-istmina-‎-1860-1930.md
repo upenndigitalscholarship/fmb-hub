@@ -1,19 +1,19 @@
 ---
-title: Casos digitalizados por EAP1477, del Archivo Histórico del Juzgado del
-  Circuito de Istmina (1860-1930)
 titleEng: Fondo Chocó - Archivos - Archivo Histórico del Juzgado del Circuito de
   Istmina (1860-1930)
+layout: archive.njk
+title: Archivo Histórico del Juzgado del Circuito de Istmina (1860-1930), Casos
+  digitalizados por EAP1477
 author: Archivo Histórico del Juzgado del Circuito de Istmina, digitalización
   por el EAP1477 de la Biblioteca Británica y el Semillero de Jóvenes del Centro
   de Memoria Muntú Bantú
 topic: Colombia, Chocó, Istmina y el San Juan
+type: documentos
 date: ""
 thumbnail: /assets/media/screenshot-2024-09-14-at-10.39.07 pm.png
-link: https://eap.bl.uk/project/EAP1477
 tags:
-    - archives
-layout: archive.njk
-type: documentos
+  - archives
+link: https://eap.bl.uk/project/EAP1477
 ---
 En colaboración con la Fundación Muntú Bantú, la Biblioteca Británica, la iniciativa Despojos en las Americas de la Universidad de Pensylvania y la Fundación Mellon, y con apoyo adicional tanto de la Universidad de Michigan como de el SSHRC de Canadá y la Universidad de New Brunswick, buscamos asegurar que este acervo documental producido entre 1860 y 1930 —deteriorado pero aún legible a pesar de décadas de abandono— sea accesible para las futuras generaciones de chocoanos.
 
