@@ -1,6 +1,7 @@
 ---
 layout: archive.njk
-title: La hidroeléctrica en La Vuelta, fotografías actuales de la  (2024)
+title: "Álbum de fotos: La hidroeléctrica en La Vuelta, fotografías actuales de
+  la  (2024)"
 author: Daniel Tubb, con apoyo de la SSHRC de Canadá y de la Universidad de New
   Brunswick
 topic: Colombia, Chocó, Minería, Hidroeléctrica de La Vuelta, Vida Cotidiana,
