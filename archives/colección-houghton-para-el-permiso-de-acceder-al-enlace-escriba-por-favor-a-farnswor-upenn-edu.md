@@ -1,6 +1,6 @@
 ---
 layout: archive.njk
-title: Albúm fotográfico - Colección Houghton - para el permiso de acceder al
+title: Álbum de fotos - Colección Houghton - para el permiso de acceder al
   enlace escriba por favor a farnswor@upenn.edu
 author: N.C. Marshall, Michigan Technological University Archives.
 topic: Colombia, Chocó, Río San Juan, Istmina, Minería, Vida cotidiana,
