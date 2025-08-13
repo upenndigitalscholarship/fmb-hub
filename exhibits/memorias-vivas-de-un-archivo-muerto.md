@@ -1,7 +1,8 @@
 ---
-title: Memorias vivas de un archivo muerto (Publication supported by the Hershey
-  Fund of the Wolf Humanities Center at the University of Pennsylvania, as well
-  as by funding from University of Michigan and SSHRC.)
+title: "Enlace para descargar el libro: Memorias vivas de un archivo muerto
+  (Publication supported by the Hershey Fund of the Wolf Humanities Center at
+  the University of Pennsylvania, as well as by funding from University of
+  Michigan and SSHRC.)"
 titleEng: Living Memories from a Dead Archive (Publication supported by the
   Hershey Fund of the Wolf Humanities Center at the University of Pennsylvania,
   as well as by funding from University of Michigan and SSHRC.)
