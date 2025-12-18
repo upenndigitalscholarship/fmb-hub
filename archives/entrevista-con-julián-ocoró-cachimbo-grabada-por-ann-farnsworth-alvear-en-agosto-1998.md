@@ -1,15 +1,16 @@
 ---
-title: "Entrevista con Julián Ocoró Cachimbo, grabada por Ann Farnsworth-Alvear
-  en Agosto 1998"
 titleEng: Fondo Chocó - Entrevistas - Entrevista con Julián Ocoró Cachimbo,
   grabada por Ann Farnsworth-Alvear en Agosto 1998
+layout: archive.njk
+title: Entrevista con Julián Ocoró Cachimbo, grabada por Ann Farnsworth-Alvear
+  en Agosto 1998
 author: "Ocoró Cachimbo, Julián "
-topic: Colombia, Chocó, Minería, Río San Juan, Compañías Extranjeras
+topic: Colombia, Chocó, Minería, Río San Juan, Vida Cotidiana, Historia Oral,
+  Compañías Extranjeras
+type: entrevistas
 date: ""
 thumbnail: /assets/media/ocoro.jpg
-link: https://upenn.box.com/s/bin8w3y9w66v2m0xgy6u337myotpyqoc
 tags:
-    - archives
-layout: archive.njk
-type: entrevistas
+  - archives
+link: https://upenn.box.com/v/entrevistajoc
 ---
