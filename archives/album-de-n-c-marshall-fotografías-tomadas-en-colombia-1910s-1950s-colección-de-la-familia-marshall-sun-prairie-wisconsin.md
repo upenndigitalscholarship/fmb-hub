@@ -12,5 +12,5 @@ date: ""
 thumbnail: /assets/media/andagoya-1952.png
 tags:
   - archives
-link: https://upenn.box.com/v/AlbumMarshall
+link: https://upenn.box.com/v/ColeccionMarshall
 ---
