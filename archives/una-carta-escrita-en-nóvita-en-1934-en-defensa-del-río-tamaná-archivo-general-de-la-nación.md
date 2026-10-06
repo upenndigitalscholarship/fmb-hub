@@ -2,6 +2,8 @@
 title: Una carta escrita en Nóvita en 1934, en defensa del Río Tamaná. Archivo
   General de la Nación
 author: ""
+date: ""
+thumbnail: /assets/media/screenshot-2026-10-05-at-7.06.53-pm.png
 link: https://drive.google.com/file/d/1Wy30hraEYR3aJqBQlMMAcM-TKreiLp2n/view?usp=sharing
 desc-es: Vicaría de San Gerónimo de Nóvita to Señor Doctor Don Gabriel Turbay,
   Ministro de Gobierno, and to Señor Doctor Bernardo Rueda Vargas, April 26,
